@@ -3,7 +3,7 @@ CS 192 Project
 
 # Sprint: 1
 ## Todo:
-- [] Present tomorrow
+- [ ] Present tomorrow
 
 
 ## Group Number : 8
